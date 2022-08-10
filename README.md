@@ -2,7 +2,7 @@
 The BLOCKS Data Standard is an official format for structuring information that is embedded into on-chain data transactions. This standard is designed to streamline app integrations that fetch and display on-chain data. The BLOCKS Data Standard is versioned and may be improved or modified over time.
 
 # Full Example
-This example contains all fields includion optional fields.
+This example contains all fields including optional fields.
 ```
 {
 	"ID": {
