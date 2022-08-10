@@ -1,2 +1,1 @@
-# blocks-data-standard
-BLOCKS Data Standard
+# BLOCKS Data Standard
