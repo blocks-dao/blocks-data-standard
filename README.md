@@ -8,7 +8,7 @@ This example contains all fields including optional fields.
 	"ID": {
 		"uid": "",
 		"time": 1658573199,
-		"standard": "vs 0.0.2",
+		"standard": "0.0.1",
 		"network": "",
 		"token_standard": "",
 		"record_type": "",
