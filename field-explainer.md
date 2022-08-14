@@ -1,19 +1,19 @@
 ```
 	"ID": {
-		"uid": "",
-		"time": 1658573199,
-		"standard": "0.0.1",
-		"network": "",
-		"token_standard": "",
-		"record_type": "",
-		"reg_id": "",
-		"reg_name": "",
-		"contract_addr": "",
-		"contract_deployer": "",
-		"wallet_addr": "",
-		"source": "",
-		"source_ip": "",
-		"kyc_kyb_hash": ""
+		"uid": "",              // * Partner generated value, typically a SHA256 hash of proprietary data.
+		"time": 1658573199,     // * UNIX time stamp of the time the transaction is generated.
+		"standard": "0.0.1",    // * The current BLOCKS Data Standard version being used.
+		"network": "",          // * The blockchain network this transaction will be posted to.
+		"token_standard": "",   // Ethereum token standard if verification for NFT (721, 1155)
+		"record_type": "",      // 
+		"reg_id": "",           // Partner generated regisatration id
+		"reg_name": "",         // Partner generated regisatration name
+		"contract_addr": "",    //
+		"contract_deployer": "",//
+		"wallet_addr": "",      //
+		"source": "",           //
+		"source_ip": "",        // IP of transaction creator
+		"kyc_kyb_hash": ""      // Partner generated value 
 	},
 ```
 ```
