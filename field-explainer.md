@@ -4,30 +4,30 @@
 		"time": 1658573199,     // * UNIX time stamp of the time the transaction is generated.
 		"standard": "0.0.1",    // * The current BLOCKS Data Standard version being used.
 		"network": "",          // * The blockchain network this transaction will be posted to.
-		"token_standard": "",   // Ethereum token standard if verification for NFT (721, 1155)
-		"record_type": "",      // 
-		"reg_id": "",           // Partner generated regisatration id
-		"reg_name": "",         // Partner generated regisatration name
-		"contract_addr": "",    //
-		"contract_deployer": "",//
-		"wallet_addr": "",      //
-		"source": "",           //
+		"token_standard": "",   // Ethereum token standard if verification for NFT (721, 1155).
+		"record_type": "",      // * "VBB", "Registry"
+		"reg_id": "",           // Partner generated regisatration id.
+		"reg_name": "",         // Partner generated regisatration name.
+		"contract_addr": "",    // Contract address of NFT project if verification for NFT.
+		"contract_deployer": "",// Wallet address of the contract deployer.
+		"wallet_addr": "",      // Wallet address of the sender of this transaction.
+		"source": "",           // Partner project name, i.e. "Search3"
 		"source_ip": "",        // IP of transaction creator
 		"kyc_kyb_hash": ""      // Partner generated value 
 	},
 ```
 ```
 	"BLOCKS_OBJ": {
-		"id": "",
-		"index": 0,
-		"index_limited": false,
-		"index_max": 0,
-		"network": "",
-		"prev_tx_id": "",
-		"title": "",
-		"description": "",
-		"data": "",
-		"hash": ""
+		"id": "",              //
+		"index": 0,            //
+		"index_limited": false,//
+		"index_max": 0,        //
+		"network": "",         //
+		"prev_tx_id": "",      //
+		"title": "",           //
+		"description": "",     //
+		"data": "",            //
+		"hash": ""             //
 	},
 ```
 ```
