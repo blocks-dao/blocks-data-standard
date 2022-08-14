@@ -3,7 +3,7 @@
    "ID":{
       "uid":"25E4EDE67E1348CBB57ABFFFB7DABA1385D12E515D0AF0DCD89AA122A84148CB",
       "time":1658097092,
-      "standard":"vs 0.0.2",
+      "standard":"0.0.1",
       "network":"ethereum",
       "token_standard":"erc-721",
       "record_type":"NFT",
