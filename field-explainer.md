@@ -10,7 +10,7 @@
 		"reg_name": "",         // Partner generated regisatration name.
 		"contract_addr": "",    // Contract address of NFT project if verification for NFT.
 		"contract_deployer": "",// Wallet address of the contract deployer.
-		"wallet_addr": "",      // Wallet address of the sender of this transaction.
+		"wallet_addr": "",      // * Wallet address of the sender of this transaction.
 		"source": "",           // Partner project name, i.e. "Search3"
 		"source_ip": "",        // IP of transaction creator
 		"kyc_kyb_hash": ""      // Partner generated value 
@@ -18,16 +18,16 @@
 ```
 ```
 	"BLOCKS_OBJ": {
-		"id": "",              //
-		"index": 0,            //
-		"index_limited": false,//
-		"index_max": 0,        //
-		"network": "",         //
-		"prev_tx_id": "",      //
-		"title": "",           //
-		"description": "",     //
-		"data": "",            //
-		"hash": ""             //
+		"id": "",              // Partner generated value
+		"index": 0,            // For linking multiple transactions, the index of the current transaction.
+		"index_limited": false,// Ignore "index_max" if true and multiple related transactions.
+		"index_max": 0,        // For linking multiple transactions, the index of the last transaction.
+		"network": "",         // * Network name registry is posted to.
+		"prev_tx_id": "",      // Previous transaction id when linking multiple transactions.
+		"title": "",           // * Title of the data object, partner genegated
+		"description": "",     // * Description of the data object, partner genegated
+		"data": "",            // Any additional data related to the object, partner genegated
+		"hash": ""             // 
 	},
 ```
 ```
