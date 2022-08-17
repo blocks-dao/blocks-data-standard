@@ -5,7 +5,7 @@
 		"standard": "0.0.1",    // * The current BLOCKS Data Standard version being used.
 		"network": "",          // * The blockchain network this transaction will be posted to.
 		"token_standard": "",   // Ethereum token standard if verification for NFT (721, 1155).
-		"record_type": "",      // * "VBB", "Registry"
+		"record_type": "",      // * "Verification", "Registry"
 		"reg_id": "",           // Partner generated regisatration id.
 		"reg_name": "",         // Partner generated regisatration name.
 		"contract_addr": "",    // Contract address of NFT project if verification for NFT.
