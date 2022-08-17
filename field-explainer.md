@@ -20,9 +20,8 @@
 	"BLOCKS_OBJ": {
 		"id": "",              // Partner generated value
 		"index": 0,            // For linking multiple transactions, the index of the current transaction.
-		"index_limited": false,// Ignore "index_max" if true and multiple related transactions.
+		"index_limited": false,// Ignore "index_max" if true.
 		"index_max": 0,        // For linking multiple transactions, the index of the last transaction.
-		"network": "",         // * Network name registry is posted to.
 		"prev_tx_id": "",      // Previous transaction id when linking multiple transactions.
 		"title": "",           // * Title of the data object, partner genegated
 		"description": "",     // * Description of the data object, partner genegated
@@ -81,39 +80,6 @@
 			"license": "",
 			"name": "",
 			"description": ""
-		}
-	],
-```
-```
-	"TABLE": [
-		{
-			"table_name" : "TABLE 3x3",
-			"label" : ["label 1","label 2", "label 3"],
-			"rows" :[
-				["row1 col1","row1 col2","row1 col3"],
-				["row2 col1","row2 col2","row2 col3"],
-				["row3 col1","row3 col2","row1 col3"]
-			]
-		},
-		{
-			"table_name" : "TABLE 4x3",
-			"label" : ["label 1","label 2", "label 3", "label 4"],
-			"rows" :[
-				["row1 col1","row1 col2","row1 col3","row1 col4"],
-				["row2 col1","row2 col2","row2 col3","row2 col4"],
-				["row3 col1","row3 col2","row3 col3","row3 col4"]
-			]
-		},
-		{
-			"table_name" : "TABLE 2x5",
-			"label" : ["label 1","label 2"],
-			"rows" :[
-				["row1 col1","row1 col2"],
-				["row2 col1","row2 col2"],
-				["row3 col1","row3 col2"],
-				["row4 col1","row4 col2"],
-				["row5 col1","row5 col2"]
-			]
 		}
 	],
 ```
