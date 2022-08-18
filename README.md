@@ -9,9 +9,7 @@ This example contains all fields including optional fields.
 	"TIME": "1658573199",
 	"SRC_WALLET": "0x29489035cd8ae7d074202def9cbf3e34a9657364",
 	"HASH": "50FACDE6F3E6BEE06D8A5614145654E5BF688ACE86A8C8915914962FEEC3B270",
-
 	"DATA": {
-
 		"ID": {
 			"standard": "0.0.1",
 			"asset_network": "polygon",
@@ -26,7 +24,6 @@ This example contains all fields including optional fields.
 			"src_ip": "",
 			"kyc_kyb_hash": "18563861A4A2F81E43F9643711AD66A3710851B556420CA49BB97A8F82AD4287"
 		},
-
 		"BLOCKS_OBJ": {
 			"id": "BLOCKS OBJ ID",
 			"reg_network": "polygon",
@@ -34,7 +31,6 @@ This example contains all fields including optional fields.
 			"title": "BLOCKS OBJ TITLE",
 			"description": "BLOCKS OBJ DESCRIPTION"
 		},
-
 		"TOKEN_ID_ADD": [
 			{
 				"start": null,
@@ -42,7 +38,6 @@ This example contains all fields including optional fields.
 				"notes": ""
 			}
 		],
-
 		"TOKEN_ID_DELETE": [
 			{
 				"start": null,
@@ -50,7 +45,6 @@ This example contains all fields including optional fields.
 				"notes": ""
 			}
 		],
-
 		"SOCIAL_MEDIA": [
 			{
 				"type": "Twitter",
@@ -65,14 +59,12 @@ This example contains all fields including optional fields.
 				"description": "BLOCKS DAO, LLC DISCORD"
 			}
 		],
-
 		"WEB_LINKS": [
 			{
 				"url": "https://www.blocks.io/",
 				"description": "BLOCKS DAO, LLC Official Website"
 			}
 		],
-
 		"FILES": [
 			{
 				"type": "",
@@ -85,8 +77,6 @@ This example contains all fields including optional fields.
 				"description": ""
 			}
 		],
-
-
 		"TABLE": [
 			{
 				"table_name": "TABLE 3x3",
@@ -118,14 +108,12 @@ This example contains all fields including optional fields.
 				]
 			}
 		],
-
 		"DATA_LIST": [
 			{
 				"name": "",
 				"value": ""
 			}
 		],
-
 		"OBJ_LINK": [
 			{
 				"title": "",
