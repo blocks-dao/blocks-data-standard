@@ -119,7 +119,6 @@ This example contains the full data structure including optional elements.'\*' I
 	}
 }  
 ```
-```
 # Minimum Required Example
 This example contains the minimum required object structure.'\*' Indicates a required field.
 ```
