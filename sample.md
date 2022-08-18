@@ -21,7 +21,7 @@
       },
       "BLOCKS_OBJ":{
          "id":"7937",
-         "reg_net":"",
+         "reg_net":"polygon",
          "prev_tx_id":"",
          "title":"BAYC #7937 BLUE NFT",
          "description":"BLUE NFT BLOCKS REGISTRY",
